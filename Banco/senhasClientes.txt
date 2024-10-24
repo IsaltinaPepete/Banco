@@ -1,0 +1,5 @@
+1;845674615;corrente
+2;846011194;corrente
+11;849037165;poupanca
+12;123456789;poupanca
+1002;0000;corrente
